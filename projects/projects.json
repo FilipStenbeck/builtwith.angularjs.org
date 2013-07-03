@@ -1609,6 +1609,24 @@
         "online radio",
         "internet radio"
       ]
-    }
+    },
+    {
+     "name": "Mini Geek",
+     "thumb": "mini-geek/thumb.png",
+     "desc": "Mobile website for browsing boardgames forum on boardgamegeek.com, migrated to AngularJS from Sencha Touch",
+     "url": "http://mini-geek.appspot.com",
+     "src": "https://github.com/FilipStenbeck/mini-geek",
+     "submitter": "Filip",
+     "submissionDate": "2013-07-03",
+     "tags": [
+       "Mobile",
+       "Responsive",
+       "Bootstrap",
+       "jQuery",
+       "Boardgames",
+       "Production",
+       "Open Source"
+     ]
+   }
   ]
 }
